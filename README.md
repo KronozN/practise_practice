@@ -1,2 +1,2 @@
 # kronoz.n.github.io
-project website
+image processor applicaiton
